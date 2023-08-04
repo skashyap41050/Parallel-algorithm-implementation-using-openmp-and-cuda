@@ -1,6 +1,6 @@
 # Parallel-algorithm-implementation-using-openmp-and-cuda
 # Description
-Diffrent Graph algorithm implementation in Parallel using OpenMp and Cuda.
+This projects aims to implement Various Graph Algorithm on OpenMp and CUDA which would outperform simple sequential implementation.
 ### OpenMp
 1.depth_of_given_nodes  
 2.Preorder_traversal  
