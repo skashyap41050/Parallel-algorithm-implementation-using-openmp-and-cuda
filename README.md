@@ -6,6 +6,6 @@ This projects aims to implement Various Graph Algorithm on OpenMp and CUDA which
 2.Preorder_traversal  
 3.unrooted_tree_to_rooted_tree  
 
-### Cuda
-1. cuda_bellmonford
-2. cuda_bfs  
+### Cuda  
+1.cuda_bellmonford
+2.cuda_bfs  
