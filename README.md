@@ -1,6 +1,6 @@
 # Parallel-algorithm-implementation-using-openmp-and-cuda
 # Description
-This projects aims to implement Various Graph Algorithm on OpenMp and CUDA which would outperform simple sequential implementation.
+Implementation of Graph Algorithms like BFS,Depth of given node, Bellmonford etc on OpenMP and Nvidia CUDA parallelisation platform which is seen to outperform sequential versions of the said algorithms verified emperically.
 ### OpenMp
 1.depth_of_given_nodes  
 2.Preorder_traversal  
